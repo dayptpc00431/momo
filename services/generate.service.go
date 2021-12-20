@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/dayptpc00431/Momo-Payment/commons"
-	"github.com/dayptpc00431/Momo-Payment/models"
+	"github.com/dayptpc00431/momo/commons"
+	"github.com/dayptpc00431/momo/models"
 	"github.com/google/uuid"
 )
 

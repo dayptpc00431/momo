@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/dayptpc00431/Momo-Payment/commons"
-	"github.com/dayptpc00431/Momo-Payment/services"
+	"github.com/dayptpc00431/momo/commons"
+	"github.com/dayptpc00431/momo/services"
 	"github.com/gin-gonic/gin"
 )
 

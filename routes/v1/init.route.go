@@ -1,7 +1,7 @@
 package v1
 
 import (
-	middlewares "github.com/dayptpc00431/Momo-Payment/middlewares"
+	middlewares "github.com/dayptpc00431/momo/middlewares"
 	"github.com/gin-gonic/gin"
 )
 

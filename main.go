@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/dayptpc00431/Momo-Payment/configs"
-	"github.com/dayptpc00431/Momo-Payment/middlewares"
-	routerv1 "github.com/dayptpc00431/Momo-Payment/routes/v1"
+	"github.com/dayptpc00431/momo/configs"
+	"github.com/dayptpc00431/momo/middlewares"
+	routerv1 "github.com/dayptpc00431/momo/routes/v1"
 	"github.com/gin-gonic/gin"
 )
 
